@@ -1,0 +1,51 @@
+* {
+    font-family: Biryani;
+}
+
+html {
+    scroll-behavior: smooth !important;
+}
+
+.img-carousel {
+    height: 650px;
+    object-fit: cover;
+    object-position: bottom;
+    width: 100%;
+}
+
+.mb-caption {
+    margin-bottom: 350px;
+}
+
+.img-sale {
+    height: 300px;
+    object-fit: cover;
+    object-position: center;
+    width: 300px;
+}
+
+.input-newsletter {
+    border: none;
+    border-radius: 0;
+}
+
+.input-newsletter:focus {
+    border: none;
+    box-shadow: none;
+}
+
+.btn-newsletter {
+    background-color: #ffe73f;
+    border: none;
+    border-radius: 0;
+}
+
+.btn-newsletter:focus {
+    border: none;
+    box-shadow: none;
+}
+
+.maps {
+    height: 100%;
+    width: 100%;
+}
